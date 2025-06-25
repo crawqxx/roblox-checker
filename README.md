@@ -1,14 +1,33 @@
+<div align="center">
+  
 hi this is python tool that can snipe laot of users with random stuff
 
 i generated 5 letter with underscores, theres liek 900k of them (for ex mmj_q and etc)
 
 ---
 
-| file name              | description                                  | link                                                                                                      |
-| ---------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `available.txt`        | available usernames   | [view raw](https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/available.txt)        |
-| `sorted_available.txt` | sorted available usernames | [view raw](https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/sorted_available.txt) |
-| `taken.txt`            | taken users, idk why u need it :/             | [view raw](https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/taken.txt)            |
+<table>
+  <tr>
+    <th>file name</th>
+    <th>description</th>
+    <th>link</th>
+  </tr>
+  <tr>
+    <td><code>available.txt</code></td>
+    <td>available usernames as of 2025-06-25</td>
+    <td><a href="https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/available.txt">view raw</a></td>
+  </tr>
+  <tr>
+    <td><code>sorted_available.txt</code></td>
+    <td>sorted available usernames</td>
+    <td><a href="https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/sorted_available.txt">view raw</a></td>
+  </tr>
+  <tr>
+    <td><code>taken.txt</code></td>
+    <td>taken users, idk why u need it :/</td>
+    <td><a href="https://raw.githubusercontent.com/crawqxx/roblox-checker/refs/heads/main/taken.txt">view raw</a></td>
+  </tr>
+</table>
 
 ---
 
